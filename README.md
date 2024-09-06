@@ -1,4 +1,4 @@
-# Onepage-Minecraft-Server-Website-
+# NukerVanilla Website
 A simple onepage website for you minecraft server.
 
 So, if you're wanting to use this template for your website, you'll need a webserver/hosting.
